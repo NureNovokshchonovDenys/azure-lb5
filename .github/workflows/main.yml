@@ -26,3 +26,4 @@ jobs:
           docker build -t mycontainerregistry360.azurecr.io/myapp:latest .
           docker push mycontainerregistry360.azurecr.io/myapp:latest
 
+

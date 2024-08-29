@@ -27,3 +27,4 @@ jobs:
           docker push mycontainerregistry360.azurecr.io/myapp:latest
 
 
+

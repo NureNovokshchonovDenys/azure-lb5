@@ -18,3 +18,5 @@ EXPOSE 80
 
 # Define the command to run the app 
 CMD ["npm", "start"]
+
+
